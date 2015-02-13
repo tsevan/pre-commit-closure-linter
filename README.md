@@ -1,4 +1,4 @@
-[Closure Linter](https://developers.google.com/closure/utilities/docs/linter_howto) plugin for https://github.com/jish/pre-commit
+[Closure Linter](https://developers.google.com/closure/utilities/docs/linter_howto) plugin for [Pre-commit](https://github.com/jish/pre-commit). It enables ability to check your Javascript code with [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml).
 
 ## Installation
 
