@@ -25,3 +25,7 @@ Use the pre-commit command to enable the plugin
 
     # In your git repo
     $ pre-commit enable yaml warnings closure-linter
+
+### Configuration
+
+You can store your configuration options into a file named `.gjslintrc` and put this file in the root directory of your project. [Here](https://gist.github.com/tsevan/94bd649054b7c64181a3) you can find an example file. You can get the full list of all available options using `gjslint --help`.
